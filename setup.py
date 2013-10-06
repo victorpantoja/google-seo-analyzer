@@ -18,7 +18,7 @@ setup(
     google-seo-analyzer helps you by crawling all problematic URLs and generating a report about which statuses
     have been changed and by ordering URLs in such a way you can easily identify error patterns.
     
-    Usage: python crw.py path/to/file/ [debug|info|warning|error|critical]
+    Usage: seo_analyzer.py path/to/file/ [debug|info|warning|error|critical]
     ''',
     keywords='gogole seo analyzer crawler report',
     author=u'Victor Pantoja',
