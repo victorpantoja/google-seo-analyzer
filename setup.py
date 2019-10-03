@@ -34,6 +34,6 @@ setup(
     scripts=['seo_analyzer/seo_analyzer.py'],
 
     install_requires=[
-        "requests==1.2.3"
+        "requests==2.20.0"
     ]
 )
